@@ -6,7 +6,7 @@
 npm install
 ```
 
-## To Run the App
+## To Run the Application
 ```
 npm start
 ```
